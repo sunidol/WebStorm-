@@ -10,7 +10,7 @@ WebStorm软件基本用法及技巧
 
 （2）选择“Editor”--->“live Templates”，会出现下图： 然后点击右侧栏绿色的“+”号，选择“Live Template”，就会出现表单输入框，abbreviation表示该代码块的缩写，Description表示该代码的描述，Template Text里面放代码块
 
-https://github.com/sunidol/WebStorm-/blob/WebStorm-LIve-Template/images/fig1.jpg
+![image](https://github.com/sunidol/WebStorm-/blob/WebStorm-LIve-Template/images/fig1.jpg)
 
 （3）代码块输入完之后，不要马上就点击“ok”，点击“Define”选择该代码块属于哪个部分
 
