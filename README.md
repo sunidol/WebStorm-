@@ -14,7 +14,9 @@ WebStorm软件基本用法及技巧
 
 （3）代码块输入完之后，不要马上就点击“ok”，点击“Define”选择该代码块属于哪个部分
 
+![image](https://github.com/sunidol/WebStorm-/blob/WebStorm-LIve-Template/images/fig2.jpg)
 
+![image](https://github.com/sunidol/WebStorm-/blob/WebStorm-LIve-Template/images/fig3.jpg)
 
 （4）点“ok”或者“Apply”即可
 
