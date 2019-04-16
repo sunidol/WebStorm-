@@ -1,9 +1,15 @@
-Ctrl+/ 或 Ctrl+Shift+/	注释（// 或者/*…*/ ）
-Shift+F6	重构-重命名
-Ctrl+X	删除行
-Ctrl+D	复制行
-Ctrl+G	查找行
-Ctrl+Shift+Up/Down	代码向上/下移动。
+ 快捷键|作用
+ --|:--:|--:
+ Ctrl+/ 或 Ctrl+Shift+/|注释（// 或者/*…*/ )
+ Shift+F6|重构-重命名 
+ Ctrl+X|删除行
+ Ctrl+D|复制行
+ Ctrl+G|查找行
+Ctrl+Shift+Up/Down|代码向上/下移动。
+
+
+
+
 F2 或Shift+F2	高亮错误或警告快速定位
 写代码，按Tab	生成代码
 选中文本，按Ctrl+Shift+F7	高亮显示所有该文本，按Esc高亮消失。(因为这个功能我就可以发放心的放弃sublime了)
